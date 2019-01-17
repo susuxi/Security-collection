@@ -5,7 +5,7 @@
 - [漏扫工具](#漏扫工具)
 - [审计](#审计)
 - [内网](#内网)
-- [其他](#其他)
+- [攻击](#攻击)
 
 ## 信息收集
 =>[**theHarvester**](https://github.com/laramies/theHarvester)  
@@ -16,6 +16,9 @@
 
 =>[**cve-search**](https://github.com/cve-search/cve-search)  
 将CVE和CPE导入mongoDB并进行搜索和处理的工具。包括用于存储漏洞和相关信息的后端，用于搜索和管理漏洞的Web界面，用于查询的一系列工具以及Web API接口。python3.3以上
+
+=>[**INURLBR**](https://github.com/googleinurl/SCANNER-INURLBR)  
+基于PHP的高级搜索引擎。支持24个搜索引擎，拥有6个深度web或者特殊选项。通过对捕获的URL/email分析，可进行攻击或检测。
 
 ## 信息泄露
 =>[**GitPrey**](https://github.com/repoog/GitPrey)  
@@ -57,10 +60,18 @@ Linux平台下进行自动化分析、文件安全性检测的开源工具。
 =>[**LNScan**](https://github.com/sowish/LNScan)  
 内网信息扫描
 
-## 其他
+## 攻击
+[只作学习用途]
 =>[**WiFi-Pumpkin**](https://github.com/P0cL4bs/WiFi-Pumpkin)  
 无线安全渗透测试套件
 
 =>[**Wifiphisher**](https://github.com/wifiphisher/wifiphisher)  
 wifi钓鱼攻击工具。可以对具体的WiFI客户端进行攻击，例如获取用户凭证或感染恶意软件。非暴破，使用社工进行信息收集
+
+=>[**backdoor-apk**](https://github.com/dana-at-cp/backdoor-apk)  
+为安卓apk添加后门。需要有Linux, Bash, Metasploit, Apktool, Android SDK, smali等知识便于使用
+
+=>[**Winpayloads**](https://github.com/nccgroup/winpayloads)  
+windows payload生成工具。可以生成无法被检测到的payload
+
 
