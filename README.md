@@ -74,4 +74,5 @@ wifi钓鱼攻击工具。可以对具体的WiFI客户端进行攻击，例如获
 =>[**Winpayloads**](https://github.com/nccgroup/winpayloads)  
 windows payload生成工具。可以生成无法被检测到的payload
 
-
+=>[**sqlmap**](https://github.com/sqlmapproject/sqlmap)
+居家必备，~~脱裤跑路~~sql注入学习利器
