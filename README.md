@@ -20,6 +20,9 @@
 =>[**INURLBR**](https://github.com/googleinurl/SCANNER-INURLBR)  
 基于PHP的高级搜索引擎。支持24个搜索引擎，拥有6个深度web或者特殊选项。通过对捕获的URL/email分析，可进行攻击或检测。
 
+=>[**subDomainsBrute**](https://github.com/lijiejie/subDomainsBrute)
+渗透测试目标域名收集，高并发DNS暴力枚举，发现其他工具无法探测到的域名, 如Google，aizhan，fofa。
+
 ## 信息泄露
 =>[**GitPrey**](https://github.com/repoog/GitPrey)  
 github敏感信息扫描工具
